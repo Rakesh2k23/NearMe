@@ -240,21 +240,17 @@ port.html:
 </html>
 ```
 ## OUTPUT
-![Nearmeimg1](https://github.com/Dhanush12022004/NearMe/assets/128135558/0cfb643e-16af-46d9-941c-e0bdc3d8b571)
+![image](https://github.com/Rakesh2k23/NearMe/assets/141472158/299319b6-83d9-469f-9bed-6a5c915ddd40)
+![image](https://github.com/Rakesh2k23/NearMe/assets/141472158/ec5cc2da-f23e-4a02-8c05-9b655acb3ea2)
+![image](https://github.com/Rakesh2k23/NearMe/assets/141472158/e8144cf2-2df3-4d6d-88d7-d04f244466d5)
+![image](https://github.com/Rakesh2k23/NearMe/assets/141472158/6c0368d6-371b-4358-a3f2-1ab513a4bf4c)
+![image](https://github.com/Rakesh2k23/NearMe/assets/141472158/7d7ff448-0941-4873-85d8-874e173eda17)
+![image](https://github.com/Rakesh2k23/NearMe/assets/141472158/98236aff-24a3-4a1e-b8ff-a872ee00687b)
 
-![Nearmeimg2](https://github.com/Dhanush12022004/NearMe/assets/128135558/a53ab542-bc65-403f-93e3-e7d05890d208)
 
-![Nearmeimg3](https://github.com/Dhanush12022004/NearMe/assets/128135558/9fb8bbe7-1dbb-4574-bea8-355c8a78149f)
 
-![Nearmeimg4](https://github.com/Dhanush12022004/NearMe/assets/128135558/d0f63270-4a6d-466b-81c0-e5ae97f9faa3)
 
-![Nearmeimg5](https://github.com/Dhanush12022004/NearMe/assets/128135558/a83aa09a-aa88-413f-a214-59bc99279b0c)
 
-![Nearmeimg6](https://github.com/Dhanush12022004/NearMe/assets/128135558/540bc0dc-043a-4a5c-8674-eaae563cfa33)
-
-![image](https://github.com/Dhanush12022004/NearMe/assets/128135558/e9175d4b-417a-40b3-8b2e-115973ae224c)
-
-![image](https://github.com/Dhanush12022004/NearMe/assets/128135558/33dc64eb-b3a7-4e4d-9778-7992db36c8c5)
 
 
 
